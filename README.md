@@ -1,6 +1,5 @@
 # Anything
 
-something
-changes
+something changes
 
-conflict
+here
