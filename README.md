@@ -1,3 +1,6 @@
 # Anything
 
-conflict something
+something
+changes
+
+conflict
